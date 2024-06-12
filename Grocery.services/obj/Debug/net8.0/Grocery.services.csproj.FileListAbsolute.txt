@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.AssemblyInfo.cs
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Grocery.services\bin\Debug\net8.0\Grocery.Services.deps.json
+C:\Users\admin\source\repos\Grocery.services\bin\Debug\net8.0\Grocery.Services.dll
+C:\Users\admin\source\repos\Grocery.services\bin\Debug\net8.0\Grocery.Services.pdb
+C:\Users\admin\source\repos\Grocery.services\bin\Debug\net8.0\Grocery.Common.dll
+C:\Users\admin\source\repos\Grocery.services\bin\Debug\net8.0\Grocery.DAL.dll
+C:\Users\admin\source\repos\Grocery.services\bin\Debug\net8.0\Grocery.Common.pdb
+C:\Users\admin\source\repos\Grocery.services\bin\Debug\net8.0\Grocery.DAL.pdb
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.csproj.CopyComplete
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.dll
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\refint\Grocery.Services.dll
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\Grocery.Services.pdb
+C:\Users\admin\source\repos\Grocery.services\obj\Debug\net8.0\ref\Grocery.Services.dll

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Grocery.common\bin\Debug\net8.0\Grocery.Common.deps.json
+C:\Users\admin\source\repos\Grocery.common\bin\Debug\net8.0\Grocery.Common.dll
+C:\Users\admin\source\repos\Grocery.common\bin\Debug\net8.0\Grocery.Common.pdb
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.AssemblyInfo.cs
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.dll
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\refint\Grocery.Common.dll
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.pdb
+C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\ref\Grocery.Common.dll

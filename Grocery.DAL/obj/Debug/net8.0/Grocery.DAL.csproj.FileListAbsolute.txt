@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Grocery.DAL\bin\Debug\net8.0\Grocery.DAL.deps.json
+C:\Users\admin\source\repos\Grocery.DAL\bin\Debug\net8.0\Grocery.DAL.runtimeconfig.json
+C:\Users\admin\source\repos\Grocery.DAL\bin\Debug\net8.0\Grocery.DAL.dll
+C:\Users\admin\source\repos\Grocery.DAL\bin\Debug\net8.0\Grocery.DAL.pdb
+C:\Users\admin\source\repos\Grocery.DAL\bin\Debug\net8.0\Grocery.Common.dll
+C:\Users\admin\source\repos\Grocery.DAL\bin\Debug\net8.0\Grocery.Common.pdb
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.AssemblyInfo.cs
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.csproj.CopyComplete
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.dll
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\refint\Grocery.DAL.dll
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.pdb
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\Grocery.DAL.genruntimeconfig.cache
+C:\Users\admin\source\repos\Grocery.DAL\obj\Debug\net8.0\ref\Grocery.DAL.dll
