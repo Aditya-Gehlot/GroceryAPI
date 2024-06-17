@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WbbHGe5dmI2JA4jhTYrFTgEh2SbU+Fv5bt6vAC5Lano4qCihARygujNSI7otnGgaMWAN0MqglNn2KqX/P/JffQ==",
+  "dgSpecHash": "BtFRicFzZUxbBsR60Sn/SdwvQgRGk9PJo9GLHXJqcofTlCHBa4ydgrYBPcqmUZ1lH2pfjcyRQ0soCf2duDI9fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\SMTPMailing\\SMTPMailing.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\SMTPMailing\\SMTPMailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\mailkit\\4.6.0\\mailkit.4.6.0.nupkg.sha512",

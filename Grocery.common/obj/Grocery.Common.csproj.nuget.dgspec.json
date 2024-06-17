@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.Common.csproj": {}
+    "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.Common.csproj": {
+    "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.Common.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.Common.csproj",
         "projectName": "Grocery.Common",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.Common.csproj",
+        "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.Common.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\Grocery.common\\obj\\",
+        "outputPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4898,11 +4898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Grocery_Store\\Grocery_Store.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery_Store\\Grocery_Store.csproj",
       "projectName": "Grocery_Store",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Grocery_Store\\Grocery_Store.csproj",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery_Store\\Grocery_Store.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Grocery_Store\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery_Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4919,14 +4919,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.Common.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.Common.csproj"
+            "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.Common.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.Common.csproj"
             },
-            "C:\\Users\\admin\\source\\repos\\Grocery.services\\Grocery.Services.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\Grocery.services\\Grocery.Services.csproj"
+            "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.services\\Grocery.Services.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.services\\Grocery.Services.csproj"
             },
-            "C:\\Users\\admin\\source\\repos\\SMTPMailing\\SMTPMailing.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\SMTPMailing\\SMTPMailing.csproj"
+            "C:\\Users\\admin\\source\\repos\\GroceryAPI\\SMTPMailing\\SMTPMailing.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\SMTPMailing\\SMTPMailing.csproj"
             }
           }
         }

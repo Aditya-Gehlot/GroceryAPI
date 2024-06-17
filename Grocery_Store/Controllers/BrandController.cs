@@ -18,7 +18,7 @@ namespace Grocery_Store.Controllers
             _brandService = brandService;
         }
 
-        [Authorize]
+       // [Authorize]
         [HttpGet]
         [Route("GetAllBrands")]
         public IActionResult GetAllBrands()

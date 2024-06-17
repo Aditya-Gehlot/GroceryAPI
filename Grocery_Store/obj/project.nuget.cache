@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHpzdFFtDiHgW495vcFdF22NpyftIW9kWfxNPQvkWJn8SM6paF1H/5P2sTm5lG8iUJqTHntS/wRZIMIbZR9muQ==",
+  "dgSpecHash": "MH1LJoxr7Topbn1hKtsjEt58b0wNrnxcdD/6CwGM7MatvhqnJGPQlVZjY7ZMQ3JPU94+33syjh6/yqRsmQ+KVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Grocery_Store\\Grocery_Store.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery_Store\\Grocery_Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

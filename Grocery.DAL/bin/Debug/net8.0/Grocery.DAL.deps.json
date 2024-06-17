@@ -485,7 +485,7 @@
       },
       "Grocery.Common/1.0.0": {
         "runtime": {
-          "Grocery.Common.dll": {}
+          "Grocery.common.dll": {}
         }
       }
     }

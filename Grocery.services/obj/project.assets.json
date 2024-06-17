@@ -2285,11 +2285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Grocery.services\\Grocery.services.csproj",
-      "projectName": "Grocery.services",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Grocery.services\\Grocery.services.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.services\\Grocery.Services.csproj",
+      "projectName": "Grocery.Services",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.services\\Grocery.Services.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Grocery.services\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2306,11 +2306,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.common.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.common.csproj"
+            "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.common.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.common.csproj"
             },
-            "C:\\Users\\admin\\source\\repos\\Grocery.DAL\\Grocery.DAL.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\Grocery.DAL\\Grocery.DAL.csproj"
+            "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.DAL\\Grocery.DAL.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.DAL\\Grocery.DAL.csproj"
             }
           }
         }

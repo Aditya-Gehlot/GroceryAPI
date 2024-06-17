@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8QoctLLKGNOCB+3dib4pYuS8HFh/SlzuuCCpcmdoFYC9y0CM3pj0jkfPZqomDeR0pmTKRtziU3WYQAAGBX1Scw==",
+  "dgSpecHash": "W6vxX4nYk3xLhfFse9NBIxia/6HFFpwFT7p7ssv7yoGiE9e2k5vEYmz6d0Fp/LjJmcYkbclEjGrJIKPFqIfUqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Grocery.DAL\\Grocery.DAL.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.DAL\\Grocery.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

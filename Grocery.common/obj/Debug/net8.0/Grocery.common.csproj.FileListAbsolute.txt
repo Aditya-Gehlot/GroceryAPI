@@ -9,3 +9,15 @@ C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.dll
 C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\refint\Grocery.Common.dll
 C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\Grocery.Common.pdb
 C:\Users\admin\source\repos\Grocery.common\obj\Debug\net8.0\ref\Grocery.Common.dll
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\bin\Debug\net8.0\Grocery.common.deps.json
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\bin\Debug\net8.0\Grocery.common.dll
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\bin\Debug\net8.0\Grocery.common.pdb
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\Grocery.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\Grocery.common.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\Grocery.common.AssemblyInfo.cs
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\Grocery.common.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\Grocery.common.sourcelink.json
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\Grocery.common.dll
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\refint\Grocery.common.dll
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\Grocery.common.pdb
+C:\Users\admin\source\repos\GroceryAPI\Grocery.common\obj\Debug\net8.0\ref\Grocery.common.dll

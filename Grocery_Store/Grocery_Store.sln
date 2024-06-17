@@ -13,6 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grocery.Common", "..\Grocer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMTPMailing", "..\SMTPMailing\SMTPMailing.csproj", "{B01062E1-1A19-42F7-A4B4-E692E90025EC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7BA6A61E-5310-4E15-9CAE-D3ABC9BFA0C2}"
+	ProjectSection(SolutionItems) = preProject
+		MyPage.html = MyPage.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

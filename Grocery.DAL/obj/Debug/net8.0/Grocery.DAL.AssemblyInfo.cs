@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grocery.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060d24d6b533b11095d2092e743cb7b799f1c70d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grocery.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grocery.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

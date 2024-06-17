@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8FMndAzjCGZUUEzvZQhf7jYMVKwD77oFK7mNsn2hnAL5jmMXdPeq1qCiCgyr2L9Bo/DHZPW5z62I+GvBCeHW7w==",
+  "dgSpecHash": "bBNXNCjczZgxgVtrhNAxCWsdPsmxBmnF9oFczj6VCp2xGbYsVW2AYo65d1WStFb75OJwRN+9k3FBer/tPfteHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Grocery.common\\Grocery.Common.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\GroceryAPI\\Grocery.common\\Grocery.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
